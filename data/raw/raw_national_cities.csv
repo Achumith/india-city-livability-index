@@ -1,0 +1,31 @@
+id,name,state,region,tier,latitude,longitude,population_lakhs,avg_temp_c,climate_comfort_raw,air_quality_pm25,safety_crime_rate,education_index,monthly_cost_living_inr,healthcare_infra,connectivity_score
+IND_BLR,Bengaluru,Karnataka,South,Tier 1,12.9716,77.5946,131.0,24.1,88.5,34.2,385.0,94.0,42000,82.0,92.0
+IND_MUM,Mumbai,Maharashtra,West,Tier 1,19.0760,72.8777,145.0,27.2,65.0,54.8,310.0,91.0,52000,88.0,96.0
+IND_DEL,Delhi,Delhi NCT,North,Tier 1,28.6139,77.2090,190.0,25.0,50.0,104.5,1450.0,98.0,44000,90.0,99.0
+IND_CHE,Chennai,Tamil Nadu,South,Tier 1,13.0827,80.2707,89.0,28.6,58.0,38.6,220.0,92.0,36000,94.0,89.0
+IND_HYD,Hyderabad,Telangana,South,Tier 1,17.3850,78.4867,102.0,26.8,72.0,42.1,340.0,89.0,37000,85.0,91.0
+IND_PUN,Pune,Maharashtra,West,Tier 1,18.5204,73.8567,69.0,25.0,82.0,46.0,410.0,88.0,35000,78.0,84.0
+IND_KOL,Kolkata,West Bengal,East,Tier 1,22.5726,88.3639,148.0,26.8,60.0,62.4,180.0,86.0,28000,80.0,88.0
+IND_AHM,Ahmedabad,Gujarat,West,Tier 1,23.0225,72.5714,82.0,27.5,62.0,58.3,390.0,80.0,30000,76.0,85.0
+IND_JAI,Jaipur,Rajasthan,North,Tier 2,26.9124,75.7873,38.0,25.4,66.0,68.2,610.0,72.0,26000,68.0,76.0
+IND_SUR,Surat,Gujarat,West,Tier 2,21.1702,72.8311,65.0,27.8,64.0,56.0,320.0,65.0,27000,72.0,78.0
+IND_LKO,Lucknow,Uttar Pradesh,North,Tier 2,26.8467,80.9462,36.0,25.6,58.0,86.0,590.0,75.0,25000,74.0,78.0
+IND_CHD,Chandigarh,Chandigarh UT,North,Tier 2,30.7333,76.7794,12.0,24.0,80.0,62.0,290.0,82.0,34000,86.0,82.0
+IND_COK,Kochi,Kerala,South,Tier 2,9.9312,76.2673,23.0,27.8,76.0,28.5,450.0,74.0,31000,89.0,80.0
+IND_IDR,Indore,Madhya Pradesh,Central,Tier 2,22.7196,75.8577,32.0,24.8,75.0,49.2,680.0,73.0,24000,71.0,74.0
+IND_NAG,Nagpur,Maharashtra,Central,Tier 2,21.1458,79.0882,28.0,26.8,63.0,45.5,510.0,70.0,25000,73.0,76.0
+IND_CJB,Coimbatore,Tamil Nadu,South,Tier 2,11.0168,76.9558,26.0,26.3,84.0,32.0,210.0,79.0,27000,84.0,75.0
+IND_TRV,Thiruvananthapuram,Kerala,South,Tier 2,8.5241,76.9366,18.0,27.2,78.0,26.0,380.0,76.0,29000,88.0,74.0
+IND_VTZ,Visakhapatnam,Andhra Pradesh,South,Tier 2,17.6868,83.2185,24.0,27.5,70.0,41.0,330.0,66.0,25000,69.0,72.0
+IND_BHO,Bhopal,Madhya Pradesh,Central,Tier 2,23.2599,77.4126,22.0,25.2,71.0,52.0,580.0,68.0,23000,67.0,71.0
+IND_PAT,Patna,Bihar,East,Tier 2,25.5941,85.1376,25.0,25.8,54.0,96.0,690.0,60.0,21000,58.0,66.0
+IND_BDQ,Vadodara,Gujarat,West,Tier 2,22.3072,73.1812,21.0,27.0,68.0,51.0,310.0,67.0,25000,70.0,73.0
+IND_GZB,Ghaziabad,Uttar Pradesh,North,Tier 2,28.6692,77.4538,24.0,25.1,51.0,112.0,780.0,56.0,30000,64.0,80.0
+IND_LDH,Ludhiana,Punjab,North,Tier 2,30.9010,75.8573,18.0,24.2,60.0,78.0,460.0,58.0,26000,65.0,70.0
+IND_BBI,Bhubaneswar,Odisha,East,Tier 2,20.2961,85.8245,12.0,27.2,68.0,47.0,350.0,74.0,24000,73.0,72.0
+IND_VNS,Varanasi,Uttar Pradesh,North,Tier 2,25.3176,82.9739,16.0,25.7,56.0,89.0,490.0,71.0,22000,66.0,69.0
+IND_GAU,Guwahati,Assam,Northeast,Tier 2,26.1445,91.7362,12.0,24.2,74.0,55.0,420.0,69.0,25000,65.0,68.0
+IND_DED,Dehradun,Uttarakhand,North,Tier 2,30.3165,78.0322,9.0,21.8,85.0,48.0,340.0,72.0,27000,68.0,67.0
+IND_RNC,Ranchi,Jharkhand,East,Tier 2,23.3441,85.3096,15.0,23.6,79.0,53.0,440.0,63.0,22000,61.0,65.0
+IND_RPR,Raipur,Chhattisgarh,Central,Tier 2,21.2514,81.6296,16.0,26.6,65.0,61.0,520.0,62.0,22000,63.0,67.0
+IND_SML,Shimla,Himachal Pradesh,North,Tier 3,31.1048,77.1734,2.5,14.5,88.0,24.0,260.0,61.0,28000,64.0,55.0
